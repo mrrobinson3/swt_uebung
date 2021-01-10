@@ -1,6 +1,6 @@
 #include <iostream>
 
-//Änderung Nummer1
+//Änderung Nummer1.
 
 int main(void)
 {
