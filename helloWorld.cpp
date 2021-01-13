@@ -1,7 +1,7 @@
 #include <iostream>
 
 //Aenderung Nummer2.
-
+// change 1
 int main(void)
 {
      
@@ -13,7 +13,7 @@ int main(void)
         std::cout << a << "\n";
         std::cout << a+4 << "\n";
     }
-    
+    // change 3
     int b;
     int c;
 }
