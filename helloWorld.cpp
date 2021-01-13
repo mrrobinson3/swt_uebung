@@ -1,10 +1,10 @@
 #include <iostream>
 
-//Änderung Nummer1.
+//Aenderung Nummer2.
 
 int main(void)
 {
-    
+     
     std::cout << "Hello World\n";
     
     int a;
@@ -14,5 +14,6 @@ int main(void)
         std::cout << a+4 << "\n";
     }
     
-    
+    int b;
+    int c;
 }
