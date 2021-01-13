@@ -12,8 +12,7 @@
      {
          std::cout << a << "\n";
          std::cout << a+4 << "\n";
-     }
--    
+     }   
      // change 3 diff
      int b;
      int c;
